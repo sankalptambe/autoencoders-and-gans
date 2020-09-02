@@ -3,6 +3,7 @@ Explore how autoencoders work and how to use them for dimensionality reduction, 
 
 ## Contents
 * Autoencoders
+  * PCA with an Undercomplete Linear Autoencoder
   * Stacked Autoencoders
   * Convolutional Autoencoders
   * Recurrent Autoencoders
